@@ -4,7 +4,7 @@ namespace ESAPX_StarterUI1.ViewModels
 {
     public class MainViewModel : BindableBase
     {
-        private string _title = "ESAPIX Starter Application";
+        private string _title = "ESAPIX Starter Application_changed title";
         public string Title
         {
             get { return _title; }
