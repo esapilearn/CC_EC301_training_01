@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "lmp+GLk7vOwfbbhyrFYprtsvyh0X1hHa56X7aRKS9d37hG6vR2GlnCk1BKf7V0vxxn12XBvTTjZVlf8ddXJcYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cwalker\\Desktop\\EC301_myCode\\Projects\\ESAPX_StarterUI1\\ESAPX_StarterUI1\\ESAPX_StarterUI1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cwalker\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\cwalker\\.nuget\\packages\\esapix_15.5\\1.5.3.11\\esapix_15.5.1.5.3.11.nupkg.sha512",
+    "C:\\Users\\cwalker\\.nuget\\packages\\esapi_15.5\\15.5.11.13\\esapi_15.5.15.5.11.13.nupkg.sha512",
+    "C:\\Users\\cwalker\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\cwalker\\.nuget\\packages\\ninject\\3.3.4\\ninject.3.3.4.nupkg.sha512",
+    "C:\\Users\\cwalker\\.nuget\\packages\\prism.core\\7.2.0.1367\\prism.core.7.2.0.1367.nupkg.sha512",
+    "C:\\Users\\cwalker\\.nuget\\packages\\prism.ninject\\7.2.0.1367\\prism.ninject.7.2.0.1367.nupkg.sha512",
+    "C:\\Users\\cwalker\\.nuget\\packages\\prism.wpf\\7.2.0.1367\\prism.wpf.7.2.0.1367.nupkg.sha512",
+    "C:\\Users\\cwalker\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

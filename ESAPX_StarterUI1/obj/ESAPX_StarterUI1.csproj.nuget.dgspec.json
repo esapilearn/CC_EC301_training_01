@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cwalker\\Desktop\\EC301_myCode\\Projects\\ESAPX_StarterUI1\\ESAPX_StarterUI1\\ESAPX_StarterUI1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cwalker\\Desktop\\EC301_myCode\\Projects\\ESAPX_StarterUI1\\ESAPX_StarterUI1\\ESAPX_StarterUI1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cwalker\\Desktop\\EC301_myCode\\Projects\\ESAPX_StarterUI1\\ESAPX_StarterUI1\\ESAPX_StarterUI1.csproj",
+        "projectName": "ESAPX_StarterUI1",
+        "projectPath": "C:\\Users\\cwalker\\Desktop\\EC301_myCode\\Projects\\ESAPX_StarterUI1\\ESAPX_StarterUI1\\ESAPX_StarterUI1.csproj",
+        "packagesPath": "C:\\Users\\cwalker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cwalker\\Desktop\\EC301_myCode\\Projects\\ESAPX_StarterUI1\\ESAPX_StarterUI1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\cwalker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "ESAPIX_15.5": {
+              "target": "Package",
+              "version": "[1.5.3.11, )"
+            },
+            "Prism.Ninject": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
